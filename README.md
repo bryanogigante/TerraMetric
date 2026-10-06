@@ -6,16 +6,42 @@ Nome do projeto: TerraMetric
 
 Importante:
 
-Licença, Termos de Uso e Compartilhamento
-Este projeto é um Trabalho de Conclusão de Curso (TCC) acadêmico e está licenciado sob a Licença MIT.
+## Termos de Uso e Compartilhamento
 
-Termos de Uso e Compartilhamento: 
+**Autores:** Ana Maria de Fatima Rodrigues Soares, Bryan de Souza Soares, Catharine Cabral de Oliveira, Jose Wilson R. Braga Neto e Maria Eduarda Marteli Fantini
+**Orientador(a):** Mateus Amêndola Redivo 
+**Projeto:** TerraMetric, TCC informática, Colégio Politécnico Bento Quirino, 2026
 
-Uso Acadêmico: O código-fonte do TerraMetric é aberto e pode ser copiado, modificado e compartilhado por outros estudantes ou desenvolvedores para fins de estudo e aprendizado.
+© 2026 Ana Maria de Fatima Rodrigues Soares, Bryan de Souza Soares, Catharine Cabral de Oliveira, Jose Wilson R. Braga Neto e Maria Eduarda Marteli Fantini. 
+Todos os direitos reservados,
+exceto o que está expressamente permitido abaixo.
 
-Direitos Autorais: Qualquer utilização, reprodução parcial ou expansão deste sistema deve obrigatoriamente citar e dar os créditos aos integrantes do grupo (Ana Maria, Bryan de souza, Catharine Cabral, Jose Wilson e Maria Eduarda).
+### Permitido
+- Consultar e estudar o código para fins educacionais.
+- Uso para avaliação do TCC e apresentação acadêmica.
+- Uso não comercial por terceiros, desde que respeitadas
+  as condições de crédito abaixo.
 
-Isenção de Responsabilidade: Este software foi desenvolvido como um projeto escolar de conclusão de curso. Ele é fornecido "como está" e os autores não se responsabilizam por bugs ou problemas decorrentes de sua execução técnica em caso de modificação do mesmo por terceiros.
+### Condições
+1. **Crédito obrigatório:** qualquer uso, cópia, adaptação ou
+   divulgação deve citar os autores pelo nome e incluir
+   link para este repositório.
+2. **Sem fins lucrativos:** é proibido usar, vender, licenciar
+   ou oferecer este código (ou derivados) como produto ou
+   serviço comercial sem contratar os autores previamente.
+3. **Uso institucional:** o uso pela instituição de ensino
+   além da avaliação do TCC (outros projetos, sistemas
+   internos, divulgação) depende de autorização prévia e
+   por escrito dos autores.
+4. **Derivados:** trabalhos derivados devem manter este aviso
+   e indicar o que foi alterado.
+
+### Contato
+Para solicitar autorização ou contratar os autores:
+[e-mail / LinkedIn / GitHub de cada um]
+
+### Isenção de garantia
+O software é fornecido "como está", sem garantias de qualquer tipo.modificação do mesmo por terceiros.
 
 //
 
