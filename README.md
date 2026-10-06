@@ -1,4 +1,4 @@
-Integrantes: Ana Maria de Fatima Rodrigues Soares Bryan de Souza Soares Catharine Cabral de Oliveira Jose Wilson R. Braga neto Maria Eduarda Marteli Fantini
+Integrantes: Ana Maria de Fatima Rodrigues Soares Bryan de Souza Soares Catharine Cabral de Oliveira Jose Wilson R. Braga Neto Maria Eduarda Marteli Fantini
 
 Turma: 3°Ano informatica A
 
