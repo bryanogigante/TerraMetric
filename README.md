@@ -10,9 +10,15 @@ Licença, Termos de Uso e Compartilhamento
 Este projeto é um Trabalho de Conclusão de Curso (TCC) acadêmico e está licenciado sob a Licença MIT.
 
 Termos de Uso e Compartilhamento: 
+
 Uso Acadêmico: O código-fonte do TerraMetric é aberto e pode ser copiado, modificado e compartilhado por outros estudantes ou desenvolvedores para fins de estudo e aprendizado.
+
 Direitos Autorais: Qualquer utilização, reprodução parcial ou expansão deste sistema deve obrigatoriamente citar e dar os créditos aos integrantes do grupo (Ana Maria, Bryan de souza, Catharine Cabral, Jose Wilson e Maria Eduarda).
+
 Isenção de Responsabilidade: Este software foi desenvolvido como um projeto escolar de conclusão de curso. Ele é fornecido "como está" e os autores não se responsabilizam por bugs ou problemas decorrentes de sua execução técnica em caso de modificação do mesmo por terceiros.
+
+
+
 
 Descrição: O TerraMetric é uma plataforma web desenvolvida para monitorar, avaliar e conscientizar sobre os impactos ambientais causados pelas práticas cotidianas dos usuários. Por meio de um sistema de questionários dinâmicos, a aplicação coleta dados sobre os hábitos diários dos participantes, calcula seu nível de responsabilidade ambiental e gera relatórios detalhados com pontuações divididas em topicos, alem de ter 5 cursos que ajudam o usuario a aprender habitos mais sustentaveis.
 
