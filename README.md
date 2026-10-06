@@ -4,7 +4,13 @@ Turma: 3°Ano informatica A
 
 Nome do projeto: TerraMetric
 
-Importante:
+Descrição: O TerraMetric é uma plataforma web desenvolvida para monitorar, avaliar e conscientizar sobre os impactos ambientais causados pelas práticas cotidianas dos usuários. Por meio de um sistema de questionários dinâmicos, a aplicação coleta dados sobre os hábitos diários dos participantes, calcula seu nível de responsabilidade ambiental e gera relatórios detalhados com pontuações divididas em topicos, alem de ter 5 cursos que ajudam o usuario a aprender habitos mais sustentaveis.
+
+Instrução para execução e utilização: Ao entrar na aplicação web, o usuario ira se cadastrar no TerraMetric, onde o botão de cadastro esta localizado no canto superior direito, e será direcionado ao questionario. Após o questionario ser feito, o sistema ira exibir a ele, em topicos e em percentual, a pontuação do usuario em um Dashboard juntamente com a recomendação de um dos 5 cursos disponiveis, que sao do sistema "TerraMetricLearn". Caso o usuario queira ver mais coisas, terá uma barra na parte superior da aplicação na qual haverá; "Home", "Questionario", "Vitrine", "TerraMetricLearn", "Dashboard" e "Login/SignUp"
+
+//
+
+importante:
 
 ## Termos de Uso e Compartilhamento
 
@@ -42,9 +48,3 @@ Para solicitar autorização ou contratar os autores:
 
 ### Isenção de garantia
 O software é fornecido "como está", sem garantias de qualquer tipo.modificação do mesmo por terceiros.
-
-//
-
-Descrição: O TerraMetric é uma plataforma web desenvolvida para monitorar, avaliar e conscientizar sobre os impactos ambientais causados pelas práticas cotidianas dos usuários. Por meio de um sistema de questionários dinâmicos, a aplicação coleta dados sobre os hábitos diários dos participantes, calcula seu nível de responsabilidade ambiental e gera relatórios detalhados com pontuações divididas em topicos, alem de ter 5 cursos que ajudam o usuario a aprender habitos mais sustentaveis.
-
-Instrução para execução e utilização: Ao entrar na aplicação web, o usuario ira se cadastrar no TerraMetric, onde o botão de cadastro esta localizado no canto superior direito, e será direcionado ao questionario. Após o questionario ser feito, o sistema ira exibir a ele, em topicos e em percentual, a pontuação do usuario em um Dashboard juntamente com a recomendação de um dos 5 cursos disponiveis, que sao do sistema "TerraMetricLearn". Caso o usuario queira ver mais coisas, terá uma barra na parte superior da aplicação na qual haverá; "Home", "Questionario", "Vitrine", "TerraMetricLearn", "Dashboard" e "Login/SignUp"
