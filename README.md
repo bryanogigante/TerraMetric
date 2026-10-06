@@ -17,8 +17,7 @@ Direitos Autorais: Qualquer utilização, reprodução parcial ou expansão dest
 
 Isenção de Responsabilidade: Este software foi desenvolvido como um projeto escolar de conclusão de curso. Ele é fornecido "como está" e os autores não se responsabilizam por bugs ou problemas decorrentes de sua execução técnica em caso de modificação do mesmo por terceiros.
 
-
-
+//
 
 Descrição: O TerraMetric é uma plataforma web desenvolvida para monitorar, avaliar e conscientizar sobre os impactos ambientais causados pelas práticas cotidianas dos usuários. Por meio de um sistema de questionários dinâmicos, a aplicação coleta dados sobre os hábitos diários dos participantes, calcula seu nível de responsabilidade ambiental e gera relatórios detalhados com pontuações divididas em topicos, alem de ter 5 cursos que ajudam o usuario a aprender habitos mais sustentaveis.
 
