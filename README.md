@@ -62,9 +62,13 @@ LinkedIn:linkedin.com/in/jose-wilson-rodrigues-braga-neto-454a512b2?
 GitHub: GitHub.com/josewilsonx
 Email : netojos@gmail.com
 
-Ana Maria:
+Ana Maria: 
+email: anasoares161208@gmail.com
+github: GitHub.com/anasoares16
 
 Maria Eduarda:
+email: ratosestudiosos123@gmail.com
+github: ratatule123
 
 ### Isenção de garantia
 O software é fornecido "como está", sem garantias de qualquer tipo.modificação do mesmo por terceiros.
