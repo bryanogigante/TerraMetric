@@ -47,12 +47,18 @@ Para solicitar autorização ou contratar os autores:
 Bryan de Souza:
 Linkedin: linkedin.com/in/bryan-souza-14b7b5409
 E-mail: bryansoares142@gmail.com 
-github: bryanogigante 
+github: GitHub.com/bryanogigante 
 
 Catherine Cabral:
 Linkedin: linkedin.com/in/catharinecabral
 email: feelsllike@gmail.com
-github: cstharine1
+github: GitHub.com/cstharine1
+
+José Wilson:
+
+LinkedIn:linkedin.com/in/jose-wilson-rodrigues-braga-neto-454a512b2?
+GitHub:GitHub.com/josewilsonx
+Email : netojos@gmail.com
 
 
 
