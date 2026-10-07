@@ -44,7 +44,11 @@ exceto o que está expressamente permitido abaixo.
 
 ### Contato
 Para solicitar autorização ou contratar os autores:
-[e-mail / LinkedIn / GitHub de cada um]
+Email: bryansoares142@gmail.com 
+
+LinkedIn: Bryan: 
+https://www.linkedin.com/in/bryan-souza-14b7b5409?utm_source=share_via&utm_content=profile&utm_medium=member_android
+github:
 
 ### Isenção de garantia
 O software é fornecido "como está", sem garantias de qualquer tipo.modificação do mesmo por terceiros.
