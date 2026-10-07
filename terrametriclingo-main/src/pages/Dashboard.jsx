@@ -34,8 +34,7 @@ export default function Dashboard() {
 
     carregar();
 
-    // Mantem o dashboard sincronizado caso o usuario saia (ou a sessao expire)
-    // em outra aba, ou apos o login/logout nesta mesma pagina.
+    
     const { data: listener } = supabase.auth.onAuthStateChange((_evento, sessao) => {
       if (!sessao) {
         setUser(null);
