@@ -13,7 +13,7 @@ export default function Dashboard() {
 
     const carregar = async () => {
       setCarregando(true);
-      // getSession le a sessao local primeiro (rapido); getUser valida com o servidor.
+
       const { data: { user: usuarioAtual } } = await supabase.auth.getUser();
       if (!ativo) return;
 
@@ -46,9 +46,7 @@ export default function Dashboard() {
       }
     });
 
-    // Corrige o caso em que o navegador restaura a pagina do cache (bfcache)
-    // ao usar o botao "Voltar" apos um logout, o que podia mostrar dados
-    // antigos do usuario mesmo sem sessao ativa.
+
     const aoRestaurarPagina = (evento) => {
       if (evento.persisted) carregar();
     };
@@ -97,7 +95,7 @@ export default function Dashboard() {
   const barraMax = Math.max(...ultimos.map(r => r.pontos), 1);
   const formatarData = (iso) => new Date(iso).toLocaleDateString("pt-BR", { day: "2-digit", month: "2-digit" });
 
-  // Tópicos do último resultado
+  
   const topicos = ultimo?.topicos || null;
   const topicosCores = {
     "Reciclagem": "#16a34a",
