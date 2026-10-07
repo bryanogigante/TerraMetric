@@ -44,11 +44,17 @@ exceto o que está expressamente permitido abaixo.
 
 ### Contato
 Para solicitar autorização ou contratar os autores:
-Email: bryansoares142@gmail.com 
+Email: 
+(Bryan de Souza) bryansoares142@gmail.com 
+(Catherine Cabral) feelsllike@gmai.com 
 
-LinkedIn: Bryan: 
-https://www.linkedin.com/in/bryan-souza-14b7b5409?utm_source=share_via&utm_content=profile&utm_medium=member_android
+LinkedIn:
+(Bryan de Souza) https://linkedin.com/in/Bryan-Souza
+(Catherine Cabral) https://linkedin.com/in/catharinecabral
+
 github:
+(Bryan de Souza) bryanogigante
+(Catherine Cabral) cstharine1
 
 ### Isenção de garantia
 O software é fornecido "como está", sem garantias de qualquer tipo.modificação do mesmo por terceiros.
