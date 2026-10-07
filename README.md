@@ -15,7 +15,9 @@ importante:
 ## Termos de Uso e Compartilhamento
 
 **Autores:** Ana Maria de Fatima Rodrigues Soares, Bryan de Souza Soares, Catharine Cabral de Oliveira, Jose Wilson R. Braga Neto e Maria Eduarda Marteli Fantini
+
 **Orientador(a):** Mateus Amêndola Redivo 
+
 **Projeto:** TerraMetric, TCC informática, Colégio Politécnico Bento Quirino, 2026
 
 © 2026 Ana Maria de Fatima Rodrigues Soares, Bryan de Souza Soares, Catharine Cabral de Oliveira, Jose Wilson R. Braga Neto e Maria Eduarda Marteli Fantini. 
@@ -60,7 +62,9 @@ LinkedIn:linkedin.com/in/jose-wilson-rodrigues-braga-neto-454a512b2?
 GitHub:GitHub.com/josewilsonx
 Email : netojos@gmail.com
 
+Ana Maria:
 
+Maria Eduarda:
 
 ### Isenção de garantia
 O software é fornecido "como está", sem garantias de qualquer tipo.modificação do mesmo por terceiros.
