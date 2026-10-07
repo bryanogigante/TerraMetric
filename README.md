@@ -45,7 +45,7 @@ exceto o que está expressamente permitido abaixo.
 ### Contato
 Para solicitar autorização ou contratar os autores:
 Bryan de Souza:
-Linkedin: linkedin.com/in/bryan-souza
+Linkedin: https://www.linkedin.com/in/bryan-souza-14b7b5409?utm_source=share_via&utm_content=profile&utm_medium=member_android
 E-mail: bryansoares142@gmail.com 
 github: bryanogigante 
 
