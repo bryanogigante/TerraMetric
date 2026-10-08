@@ -76,7 +76,7 @@ export default function QuestionarioPublico() {
         </div>
         <p style={{ marginTop: "32px", color: "#aaa", fontSize: "14px", textAlign: "center" }}>
           Quer salvar seu progresso?{" "}
-          <span onClick={() => navigate("/loginsingup")} style={{ color: "#4caf50", cursor: "pointer", textDecoration: "underline" }}>
+          <span onClick={() => navigate("/loginsignup")} style={{ color: "#4caf50", cursor: "pointer", textDecoration: "underline" }}>
             Crie uma conta
           </span>
         </p>
