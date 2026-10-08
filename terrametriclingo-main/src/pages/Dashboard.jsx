@@ -127,7 +127,7 @@ export default function Dashboard() {
           <div style={{ background: "#052e16", border: "1px solid #16a34a", color: "#4ade80", padding: "6px 16px", borderRadius: 999, fontSize: 13, fontWeight: 600 }}>
             {nivel.label}
           </div>
-          <button onClick={async () => { await supabase.auth.signOut(); navigate("/loginsingup"); }} style={{ ...estilos.btn, background: "transparent", border: "1px solid #374151", color: "#9ca3af", fontSize: 13 }}>
+          <button onClick={async () => { await supabase.auth.signOut(); navigate("/loginsignup"); }} style={{ ...estilos.btn, background: "transparent", border: "1px solid #374151", color: "#9ca3af", fontSize: 13 }}>
             Sair
           </button>
         </div>
