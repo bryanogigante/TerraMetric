@@ -31,7 +31,6 @@ export default function LoginSignup() {
       setErro("Erro ao criar conta: " + error.message);
     } else {
       setSucesso("Conta criada! Verifique seu email para confirmar.");
-      console.log(data);
     }
   };
 
@@ -45,7 +44,6 @@ export default function LoginSignup() {
     if (error) {
       setErro("Email ou senha incorretos. Verifique seus dados.");
     } else {
-      console.log(data);
       navigate("/questionario");
     }
   };
