@@ -6,11 +6,10 @@ Nome do projeto: TerraMetric
 
 Descrição: O TerraMetric é uma plataforma web desenvolvida para monitorar, avaliar e conscientizar sobre os impactos ambientais causados pelas práticas cotidianas dos usuários. Por meio de um sistema de questionários dinâmicos, a aplicação coleta dados sobre os hábitos diários dos participantes, calcula seu nível de responsabilidade ambiental e gera relatórios detalhados com pontuações divididas em topicos, alem de ter 5 cursos que ajudam o usuario a aprender habitos mais sustentaveis.
 
-Instrução para execução e utilização: Ao entrar na aplicação web, o usuario ira se cadastrar no TerraMetric, onde o botão de cadastro esta localizado no canto superior direito, e será direcionado ao questionario. Após o questionario ser feito, o sistema ira exibir a ele, em topicos e em percentual, a pontuação do usuario em um Dashboard juntamente com a recomendação de um dos 5 cursos disponiveis, que sao do sistema "TerraMetricLearn". Caso o usuario queira ver mais coisas, terá uma barra na parte superior da aplicação na qual haverá; "Home", "Questionario", "Vitrine", "TerraMetricLearn", "Dashboard" e "Login/SignUp"
+Como executar: Vá no terminal ou qualquer lugar que tenha a função de um, de "cd terrametriclingo-main", isso te levara para a pasta certa. Após isso, de "npm install" para instalar quaisquer dependencias (é importante ressaltar que, se estiver utilizando aplicações, como por exemplo o Visual Studio Code, se certifique de que a mesma esteja atualizada) e, por fim, de "npm run dev" para executar a aplicação web.
 
-//
+Instrução para utilização: Ao entrar na aplicação web, o usuario ira se cadastrar no TerraMetric, onde o botão de cadastro esta localizado no canto superior direito, e será direcionado ao questionario. Após o questionario ser feito, o sistema ira exibir a ele, em topicos e em percentual, a pontuação do usuario em um Dashboard juntamente com a recomendação de um dos 5 cursos disponiveis, que sao do sistema "TerraMetricLearn". Caso o usuario queira ver mais coisas, terá uma barra na parte superior da aplicação na qual haverá; "Home", "Questionario", "Vitrine", "TerraMetricLearn", "Dashboard" e "Login/SignUp".
 
-importante:
 
 ## Termos de Uso e Compartilhamento
 
