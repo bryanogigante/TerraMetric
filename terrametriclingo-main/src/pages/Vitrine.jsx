@@ -3,9 +3,9 @@
 const empresas = [
   { nome: "Ambipar", estado: "SP", cidade: "Sao Paulo", descricao: "Gestão ambiental e reciclagem de residuos industriais e urbanos.", contato: "0800 772 0093", site: "https://www.ambipar.com", tag: "Reciclagem" },
   { nome: "Suzano", estado: "SP", cidade: "Sao Paulo", descricao: "Produção de papel e celulose com manejo florestal sustentavel.", contato: "(11) 3503-9000", site: "https://www.suzano.com.br", tag: "Florestal" },
-  { nome: "Resiclean", estado: "SP", cidade: "Barueri", descricao: "Coleta seletiva e logistica reversa para empresas e condominios.", contato: "11 94751-1494", site: "https://www.resiclean.com.br/?gad_source=1&gad_campaignid=23691809936&gbraid=0AAAAADt-k6PUPkcihb8OrhjBG8w7CXOBZ&gclid=CjwKCAjwzNTUBhAjEiwA7zcvWmzlxbyR0G2N71QR6YC9eKmEqIJt3Bk2vhP_XaNUWIVqJubaSoxGwhoCeVEQAvD_BwE", tag: "Coleta Seletiva" },
+  { nome: "Resiclean", estado: "SP", cidade: "Barueri", descricao: "Coleta seletiva e logistica reversa para empresas e condominios.", contato: "11 94751-1494", site: "https://www.resiclean.com.br", tag: "Coleta Seletiva" },
   { nome: "Ciclo Organico", estado: "RJ", cidade: "Rio de Janeiro", descricao: "Compostagem organica e venda de insumos para agricultura urbana.", contato: "(21) 98521-0747", site: "https://cicloorganico.com.br/index/ciclo-organico", tag: "Compostagem" },
-  { nome: "Verde Ghaia", estado: "MG", cidade: "Sao Jose dos Campos", descricao: "Consultoria em sustentabilidade e certificações ambientais ISO 14001.", contato: "(12) 3900-1000", site: "https://www.verdeghaia.com.br", tag: "Consultoria" },
+  { nome: "Verde Ghaia", estado: "SP", cidade: "Sao Jose dos Campos", descricao: "Consultoria em sustentabilidade e certificações ambientais ISO 14001.", contato: "(12) 3900-1000", site: "https://www.verdeghaia.com.br", tag: "Consultoria" },
   { nome: "Ecoville", estado: "ES", cidade: "Vitoria", descricao: "Loja de produtos sustentaveis, organicos e de baixo impacto ambiental.", contato: "(27) 3315-4567", site: "https://www.ecoville.com.br", tag: "Produtos Eco" },
   { nome: "BioSmart", estado: "RJ", cidade: "Niteroi", descricao: "Energia solar fotovoltaica para residencias e empresas.", contato: "(21) 2718-3344", site: "https://www.biosmart.com.br", tag: "Energia Solar" },
 ];
