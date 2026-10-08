@@ -55,7 +55,7 @@ export default function Navbar() {
             <li><Link to="/vitrine" className="menu-link">Vitrine</Link></li>
             <li><Link to="/learn" className="menu-link">TerraMetricLearn</Link></li>
             <li><Link to="/dashboard" className="menu-link">Dashboard</Link></li>
-            <li><Link to="/loginsingup" className="menu-link">Login/Signup</Link></li>
+            <li><Link to="/loginsignup" className="menu-link">Login/Signup</Link></li>
           </ul>
 
         </div>
