@@ -24,7 +24,7 @@ function App() {
         <Route path="/dashboard" element={<Dashboard />} />
         <Route path="/learn" element={<Learn />} />
         <Route path="/vitrine" element={<Vitrine />} />
-        <Route path="/loginsingup" element={<LoginSignup />} />
+        <Route path="/loginsignup" element={<LoginSignup />} />
         <Route path="/curso-basico" element={<CursoBasico />} />
         <Route path="/curso-medio" element={<CursoMedio />} />
         <Route path="/curso-avancado" element={<CursoAvancado />} />
