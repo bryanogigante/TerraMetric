@@ -52,7 +52,7 @@ Linkedin: linkedin.com/in/bryan-souza-14b7b5409
 E-mail: bryansoares142@gmail.com
 github: GitHub.com/bryanogigante 
 
-Catherine Cabral:
+Catharine Cabral:
 Linkedin: linkedin.com/in/catharinecabral
 email: feelsllike@gmail.com
 github: GitHub.com/cstharine1
