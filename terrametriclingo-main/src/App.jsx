@@ -1,7 +1,7 @@
 ﻿import { Routes, Route } from "react-router-dom";
 import Home from "./Home";
 import Quiz from "./pages/Questionario";
-import QuestionarioPublico from "./pages/QuestionarioPublico";
+import QuestionarioPublico from "./pages/Questionariopublico";
 import Learn from "./pages/Learn";
 import Navbar from "./Navbar";
 import LoginSignup from "./pages/LoginSignup";
